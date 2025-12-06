@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "08ed9f0a-1f65-4dfe-b074-00629d3e2ece": {
+      "label": "¿Qué implica la desaparición de las lenguas indígenas en México?",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=psK_FuQiBaY",
+      "duration": 405
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "¿Qué implica la desaparición de las lenguas indígenas en México?",
+  "created_at": "2025-12-06T00:30:38.711Z",
+  "created_by": "egorobets",
+  "updated_at": "2025-12-06T00:30:38.711Z",
+  "updated_by": "egorobets"
+}
