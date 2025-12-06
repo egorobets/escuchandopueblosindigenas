@@ -5,14 +5,18 @@
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=IJ5dTSethGA",
-      "duration": 312
+      "duration": 312,
+      "set_sort": [
+        "ded50a63-1c45-460b-bcf4-4c1d1a60f801",
+        "79da21ca-aee1-477b-8c9f-32a424dead30"
+      ]
     }
   },
   "auto_generate_web_page": true,
   "label": "¿De dónde son los mapuche?",
   "created_at": "2025-12-06T00:37:34.600Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-06T00:38:33.520Z",
+  "updated_at": "2025-12-06T00:38:51.475Z",
   "updated_by": "egorobets",
   "av_file_order": [
     "5e72ecc5-4f64-488e-ba38-6f03cff49b22"
