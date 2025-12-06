@@ -1,5 +1,223 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 11,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Risk of extinction of Indigenous languages: Around 30 languages could disappear due to discrimination; need to restore dignity and linguistic rights."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extinction of Indigenous languages"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Linguistic discrimination"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Linguistic rights"
+        }
+      ],
+      "uuid": "af227a22-1091-42a7-b603-00d326bba698"
+    },
+    {
+      "start_time": 27,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Description of an event that is being held at Mexico City with speakers of Indigenous"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Events for language revitalization"
+        }
+      ],
+      "uuid": "1732f959-c12a-45d7-9d83-7f2a05b66f4f"
+    },
+    {
+      "start_time": 59,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Statistics on linguistic diversity: Few Indigenous-identifying people still speak their ancestral languages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Linguistic discrimination"
+        }
+      ],
+      "uuid": "5a22bdd3-03c7-467e-bf7b-0356284ad633"
+    },
+    {
+      "start_time": 131,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Recognition of Indigenous peoples collectively; importance of International Day of Indigenous Peoples."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "International Day of Indigenous Peoples"
+        }
+      ],
+      "uuid": "f7c0dcca-f598-4b14-bad9-a4319d66c83d"
+    },
+    {
+      "start_time": 183,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Causes of language loss: migration and discrimination lead to reduced transmission."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Migration"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Linguistic discrimination"
+        }
+      ],
+      "uuid": "82624eb7-a792-4696-98b2-b3941611ce53"
+    },
+    {
+      "start_time": 213,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Consecutive connector 'es por eso que' expressing consequence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Connector"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Uses of por and para"
+        }
+      ],
+      "uuid": "d416c60e-7883-490c-be3a-cde7aa2e5e31"
+    },
+    {
+      "start_time": 258,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Community practices (mayordomía, tequio) build citizenship and cultural continuity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Communal practices"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture"
+        }
+      ],
+      "uuid": "6e91c0de-f3d1-491f-ba63-816ea86d11fa"
+    },
+    {
+      "start_time": 325,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use of a reflexive verb to express transformation and to describe citizenship."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Reflexive verbs"
+        }
+      ],
+      "uuid": "5b755fe5-2a27-4c00-ad83-e643ec1cc1dc"
+    },
+    {
+      "start_time": 332,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music as intergenerational cultural transmission in Mixe community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Culture"
+        }
+      ],
+      "uuid": "ef493028-b243-46f3-a947-149f6e55579b"
+    }
+  ],
   "event_id": "e8fbbf43-5a57-4d9c-8b29-e0ed8ec33856",
   "set": "Questions",
   "source_id": "02ac985c-9a41-4310-9967-096f675197c0"
