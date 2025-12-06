@@ -55,14 +55,13 @@
     }
   ],
   "title": "Home",
-  "parent": "5eef7b44-3f48-4710-b4d0-fc2c08b34a50",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "home",
   "created_at": "2025-12-06T00:27:30.216Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-06T00:27:30.216Z",
+  "updated_at": "2025-12-06T00:27:52.399Z",
   "updated_by": "egorobets"
 }
