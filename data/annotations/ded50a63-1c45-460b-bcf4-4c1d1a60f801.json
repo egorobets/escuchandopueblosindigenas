@@ -1,5 +1,264 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The video opens by questioning whether Mapuches are Chilean or Argentinian and states that the real answer is “it doesn’t matter.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Autonomy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mapuches"
+        }
+      ],
+      "uuid": "b778a2f3-ca26-4300-a4e6-04aee56e8408"
+    },
+    {
+      "start_time": 22,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reference to Convention 169 of the ILO, which recognizes the pre-existence of Indigenous peoples."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Convention 169 of the ILO"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Indigenous Peoples"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Reflexive verbs"
+        }
+      ],
+      "uuid": "a6028c0e-532b-4606-9aed-a98f3ccbee0d"
+    },
+    {
+      "start_time": 33,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people delegitimize Mapuche territorial claims, ignoring Indigenous logic and identity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Territory"
+        }
+      ],
+      "uuid": "a3582597-cab2-428f-bfaa-ecdc9341eb44"
+    },
+    {
+      "start_time": 48,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many Mapuches find the question discriminatory and malicious since it challenges their belonging to their territory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Territory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adjectives"
+        }
+      ],
+      "uuid": "2cb7d268-782a-43f6-85fd-adfc7578b7ea"
+    },
+    {
+      "start_time": 61,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The idea that Mapuches were “Chileans” began in 1878 during the Conquista del Desierto (Argentina) and the Pacificación de la Araucanía (Chile)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "19th century"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Territory"
+        }
+      ],
+      "uuid": "e04ca73e-4f03-4a4a-9ee1-2fd0c1d66bc4"
+    },
+    {
+      "start_time": 113,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mapuche world is diverse; generalizing about them is misleading."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diversity of Mapuche"
+        }
+      ],
+      "uuid": "421a794d-1ca7-4ac1-b74b-cf51f2305172"
+    },
+    {
+      "start_time": 140,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Wallmapu extended from the Pacific to the Atlantic, covering present-day provinces in Argentina and regions in Chile. Mapuche identity is linked to their territory"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Territory"
+        }
+      ],
+      "uuid": "d6dbb806-f3e6-415d-adb6-11fa209bcb22"
+    },
+    {
+      "start_time": 171,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During the Industrial Revolution, Indigenous lands became economically valuable (livestock, cereals, wheat), increasing pressure from states. Chile took 90% of Mapuche territory and distributed it to settlers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Territory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Preterite"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Imperfect"
+        }
+      ],
+      "uuid": "47c5f51d-fb3a-4bfc-ab50-872c7696c5a1"
+    },
+    {
+      "start_time": 219,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Argentina, the invasion displaced, killed, captured, and relocated many Mapuches; some were even exhibited in museums. Survivors provided cheap labor for ranches."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Invasion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Labor"
+        }
+      ],
+      "uuid": "9edd152d-425b-47dd-bad9-d218ded65f8b"
+    },
+    {
+      "start_time": 290,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mapuche resistance takes many forms — some peaceful, others more radical — as communities fight to reclaim territory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Resistance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Territory"
+        }
+      ],
+      "uuid": "43710f71-6b99-4f37-b19d-b208ae20d227"
+    }
+  ],
   "event_id": "e09c5465-be93-4373-a129-ff21fc5af38c",
   "set": "Annotations",
   "source_id": "5e72ecc5-4f64-488e-ba38-6f03cff49b22"
