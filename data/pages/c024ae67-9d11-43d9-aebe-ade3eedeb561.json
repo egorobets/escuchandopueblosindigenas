@@ -4,6 +4,79 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Los pueblos indígenas de Hispanoamérica constituyen un mosaico extraordinario de culturas, lenguas y experiencias históricas en los territorios que fueron colonizados por España. En la actualidad, más de 50 millones de personas indígenas viven en América Latina, con poblaciones especialmente numerosas en países como México, Perú, Bolivia y Guatemala. México reconoce oficialmente 68 grupos lingüísticos indígenas con más de 350 variantes lingüísticas, mientras que Perú reconoce 48 lenguas indígenas, entre ellas familias principales como quechua y aimara. Bolivia se destaca como uno de los países más pluriculturales de la región, reconociendo constitucionalmente 36 naciones indígenas, siendo las más numerosas las quechuas, aimaras y guaraníes. Estas lenguas e identidades persisten tanto en zonas rurales andinas y amazónicas como en grandes centros urbanos, donde millones mantienen prácticas bilingües o multilingües. Esta diversidad refleja siglos de continuidad y adaptación cultural, pese al profundo impacto de la colonización, del trabajo forzado y de los desplazamientos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "En las últimas décadas, los pueblos indígenas de Hispanoamérica han alcanzado una creciente visibilidad política, ampliación de derechos y reconocimiento cultural. Países como Bolivia y Ecuador han adoptado constituciones plurinacionales, que afirman la autonomía indígena, los derechos colectivos y los territorios ancestrales. Líderes indígenas han alcanzado gran notoriedad política — como Evo Morales, de origen aimara, quien fue el primer presidente indígena de Bolivia, o Rigoberta Menchú, activista maya k’iche’ galardonada con el Premio Nobel de la Paz por su defensa de los derechos indígenas en Guatemala. La revitalización cultural también es fuerte: escritores, músicos y cineastas indígenas utilizan cada vez más sus lenguas originarias para expresar experiencias contemporáneas, desde colectivos de hip-hop quechua en Perú hasta poetas mayas en el sur de México. A pesar de desafíos persistentes —como la pérdida de tierras, la discriminación y las presiones ambientales—, los pueblos indígenas de Hispanoamérica continúan dando forma, de manera poderosa y perdurable, al paisaje cultural, político y lingüístico de la región."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://soundstudiesblog.com/wp-content/uploads/2014/04/aymara-march-wiphala.jpg",
+      "caption": "Aymara people (Perú) carrying the Wiphala flag ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Aymara people carrying the Wiphala flag. Source: "
+        },
+        {
+          "text": "Sounding Out",
+          "link": "https://soundstudiesblog.com/2014/04/10/radio-de-accion-radio-and-the-voice-of-the-aymara-people/"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The Indigenous peoples of Hispanic America represent an extraordinary mosaic of cultures, languages, and historical experiences across the regions colonized by Spain. Today, over 50 million Indigenous people live in Latin America, with especially large populations in countries such as Mexico, Peru, Bolivia, and Guatemala. Mexico officially recognizes 68 Indigenous linguistic groups with more than 350 linguistic variants, while Peru acknowledges 48 Indigenous languages, including major families such as Quechua and Aymara. Bolivia stands out as one of the most pluricultural countries in the region, constitutionally recognizing 36 Indigenous nations, the largest being Quechua, Aymara, and Guaraní. These languages and identities persist not only in rural Andean and Amazonian regions but also in major urban centers, where millions maintain bilingual or multilingual practices. Such diversity reflects centuries of cultural continuity and adaptation, despite the profound impact of colonization, forced labor systems, and displacement."
         }
       ]
@@ -34,6 +107,6 @@
   "slug": "an-introduction-about-indigenous-peoples-in-s",
   "created_at": "2025-12-09T18:59:58.007Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-09T18:59:58.007Z",
+  "updated_at": "2025-12-09T19:40:58.640Z",
   "updated_by": "egorobets"
 }
