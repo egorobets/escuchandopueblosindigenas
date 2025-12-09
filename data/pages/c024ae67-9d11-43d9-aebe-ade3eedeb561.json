@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Indigenous peoples of Hispanic America represent an extraordinary mosaic of cultures, languages, and historical experiences across the regions colonized by Spain. Today, over 50 million Indigenous people live in Latin America, with especially large populations in countries such as Mexico, Peru, Bolivia, and Guatemala. Mexico officially recognizes 68 Indigenous linguistic groups with more than 350 linguistic variants, while Peru acknowledges 48 Indigenous languages, including major families such as Quechua and Aymara. Bolivia stands out as one of the most pluricultural countries in the region, constitutionally recognizing 36 Indigenous nations, the largest being Quechua, Aymara, and Guaraní. These languages and identities persist not only in rural Andean and Amazonian regions but also in major urban centers, where millions maintain bilingual or multilingual practices. Such diversity reflects centuries of cultural continuity and adaptation, despite the profound impact of colonization, forced labor systems, and displacement."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In recent decades, Indigenous peoples across Hispanic America have gained growing political visibility, expanded rights, and cultural recognition. Countries such as Bolivia and Ecuador have adopted plurinational constitutions, affirming Indigenous autonomy, collective rights, and ancestral territories. Indigenous leaders have become prominent figures in national politics — for example, Evo Morales, of Aymara origin, who served as Bolivia’s first Indigenous president, or Rigoberta Menchú, a K’iche’ Maya activist awarded the Nobel Peace Prize for her work defending Indigenous rights in Guatemala. Cultural revitalization is also strong: Indigenous writers, musicians, and filmmakers increasingly use their native languages to express contemporary Indigenous experiences, from Quechua hip-hop collectives in Peru to Maya poets in southern Mexico. Despite enduring challenges — including land dispossession, discrimination, and environmental pressures — the Indigenous peoples of Hispanic America continue to shape the region’s cultural, political, and linguistic landscape in powerful and enduring ways."
+        }
+      ]
+    }
+  ],
+  "title": "An introduction about Indigenous peoples in Spanish speaking countries",
+  "parent": "5eef7b44-3f48-4710-b4d0-fc2c08b34a50",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "an-introduction-about-indigenous-peoples-in-s",
+  "created_at": "2025-12-09T18:59:58.007Z",
+  "created_by": "egorobets",
+  "updated_at": "2025-12-09T18:59:58.007Z",
+  "updated_by": "egorobets"
+}
