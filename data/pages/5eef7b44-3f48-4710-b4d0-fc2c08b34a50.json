@@ -91,9 +91,22 @@
         {
           "text": "¿De dónde son los mapuche?",
           "link": "https://egorobets.github.io/escuchandopueblosindigenas/pages/de-donde-son-los-mapuche/"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\n\nVideo 3"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 3"
         }
       ]
     },
@@ -171,7 +184,7 @@
           "text": ""
         }
       ],
-      "align": "center"
+      "align": "left"
     },
     {
       "type": "paragraph",
@@ -187,7 +200,7 @@
           "text": "."
         }
       ],
-      "align": "center"
+      "align": "left"
     },
     {
       "type": "paragraph",
@@ -298,7 +311,7 @@
   "created_at": "2025-12-06T00:17:54.106Z",
   "created_by": "egorobets",
   "title": "Home",
-  "updated_at": "2025-12-09T19:55:30.105Z",
+  "updated_at": "2025-12-09T19:58:58.865Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
