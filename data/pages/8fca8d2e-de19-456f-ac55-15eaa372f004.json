@@ -1,0 +1,83 @@
+{
+  "content": [
+    {
+      "type": "image",
+      "url": "https://minio.la.utexas.edu/colaweb-prod/person_files/0/9182/eduardo_henrique_gorobets_martins.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=kOJyJds1uw8XxRGoVtViB047UihJLCST%2F20251209%2Fnot-real-1%2Fs3%2Faws4_request&X-Amz-Date=20251209T194532Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=ac0257700a47a7eb1f2a9241d09c91ac0ef5d96609a09f8c774a876504b4c205",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://liberalarts.utexas.edu/spanish/gradstudents/ehg427",
+          "children": [
+            {
+              "text": "Eduardo H. Gorobets Martins"
+            }
+          ]
+        },
+        {
+          "text": " is a Ph.D. candidate in the Department of Spanish and Portuguese at The University of Texas at Austin. His primary research interests include the history and culture of Indigenous peoples in colonial Mexico, the Nahuatl language, and digital humanities."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Other projects developed by Eduardo on digital humanities are detailed in a recent "
+        },
+        {
+          "type": "link",
+          "url": "https://www.pterodactilo.com/questions-reviews-and-selections/",
+          "children": [
+            {
+              "text": "article of the Revista Pterodáctilo"
+            }
+          ]
+        },
+        {
+          "text": " (published in English, Spanish, and Portuguese), and include the "
+        },
+        {
+          "type": "link",
+          "url": "https://sites.utcreates.org/frcv/",
+          "children": [
+            {
+              "text": "Vocabulary Fondo Real de Cholula"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "title": "About the author",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "about-the-author",
+  "created_at": "2025-12-09T19:46:05.690Z",
+  "created_by": "egorobets",
+  "updated_at": "2025-12-09T19:46:05.690Z",
+  "updated_by": "egorobets"
+}
