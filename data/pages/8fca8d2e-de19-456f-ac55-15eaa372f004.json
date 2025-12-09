@@ -9,98 +9,22 @@
       ]
     },
     {
-      "type": "grid",
-      "layout": [
-        3,
-        3
-      ],
+      "type": "paragraph",
       "children": [
         {
-          "type": "column",
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://liberalarts.utexas.edu/spanish/gradstudents/ehg427",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "https://minio.la.utexas.edu/colaweb-prod/news_images/1/19164/graduate_student_spotlight_eduardo_gorobets_martins.jpg",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
+              "text": "Eduardo H. Gorobets Martins"
             }
           ]
         },
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                },
-                {
-                  "type": "link",
-                  "url": "https://liberalarts.utexas.edu/spanish/gradstudents/ehg427",
-                  "children": [
-                    {
-                      "text": "Eduardo H. Gorobets Martins"
-                    }
-                  ]
-                },
-                {
-                  "text": " is a Ph.D. candidate in the Department of Spanish and Portuguese at The University of Texas at Austin. His primary research interests include the history and culture of Indigenous peoples in colonial Mexico, the Nahuatl language, and digital humanities."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Other projects developed by Eduardo on digital humanities are detailed in a recent "
-                },
-                {
-                  "type": "link",
-                  "url": "https://www.pterodactilo.com/questions-reviews-and-selections/",
-                  "children": [
-                    {
-                      "text": "article of the Revista Pterodáctilo"
-                    }
-                  ]
-                },
-                {
-                  "text": " (published in English, Spanish, and Portuguese), and include the "
-                },
-                {
-                  "type": "link",
-                  "url": "https://sites.utcreates.org/frcv/",
-                  "children": [
-                    {
-                      "text": "Vocabulary Fondo Real de Cholula"
-                    }
-                  ]
-                },
-                {
-                  "text": "."
-                }
-              ]
-            }
-          ]
+          "text": " is a Ph.D. candidate in the Department of Spanish and Portuguese at The University of Texas at Austin. His primary research interests include the history and culture of Indigenous peoples in colonial Mexico, the Nahuatl language, and digital humanities."
         }
       ]
     },
@@ -108,7 +32,31 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Other projects developed by Eduardo on digital humanities are detailed in a recent "
+        },
+        {
+          "type": "link",
+          "url": "https://www.pterodactilo.com/questions-reviews-and-selections/",
+          "children": [
+            {
+              "text": "article of the Revista Pterodáctilo"
+            }
+          ]
+        },
+        {
+          "text": " (published in English, Spanish, and Portuguese), and include the "
+        },
+        {
+          "type": "link",
+          "url": "https://sites.utcreates.org/frcv/",
+          "children": [
+            {
+              "text": "Vocabulary Fondo Real de Cholula"
+            }
+          ]
+        },
+        {
+          "text": "."
         }
       ]
     }
@@ -121,6 +69,6 @@
   "slug": "about-the-author",
   "created_at": "2025-12-09T19:46:05.690Z",
   "created_by": "egorobets",
-  "updated_at": "2025-12-09T20:02:30.826Z",
+  "updated_at": "2025-12-09T20:15:32.461Z",
   "updated_by": "egorobets"
 }
