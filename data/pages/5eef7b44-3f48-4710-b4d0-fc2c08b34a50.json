@@ -266,7 +266,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "About the project | About the author"
+          "text": "About the project",
+          "link": "https://egorobets.github.io/escuchandopueblosindigenas/pages/about-the-project/"
+        },
+        {
+          "text": " | "
+        },
+        {
+          "text": "About the author",
+          "link": "https://egorobets.github.io/escuchandopueblosindigenas/pages/about-the-author/"
         }
       ]
     },
@@ -290,7 +298,7 @@
   "created_at": "2025-12-06T00:17:54.106Z",
   "created_by": "egorobets",
   "title": "Home",
-  "updated_at": "2025-12-09T19:53:17.148Z",
+  "updated_at": "2025-12-09T19:55:30.105Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
