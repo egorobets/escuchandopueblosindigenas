@@ -9,6 +9,47 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Watch the video below and explore annotations about vocabulary, grammar, sociocultural aspects of the language, and more."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 4 - Lenin Tamayo conquista Asia con el k-pop en quechua",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nLenin Tamayo is a young Peruvian artist who has taken his culture to the world by blending the energy of Korean pop music with the Quechua language and Andean musical elements to create a genre known as “Q‑pop.” What started as a personal expression of identity and resilience has turned into an international musical movement that has resonated with audiences across Asia, even as he performs songs in Quechua far from home. In the video below, you will learn about how he built Q‑pop, his success touring in countries like South Korea, India, Thailand, and Vietnam, and how his music helps challenge stereotypes while celebrating Indigenous language and culture on the global stage."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "ddc5b19d-8cc4-49c1-a746-a56db978ab90",
       "includes": [
@@ -35,7 +76,7 @@
   "created_by": "egorobets",
   "title": "Lenin Tamayo conquista Asia con el k-pop en quechua",
   "slug": "lenin-tamayo-conquista-asia-con-el-k-pop-en-q",
-  "updated_at": "2025-12-12T20:31:15.818Z",
+  "updated_at": "2025-12-12T21:52:57.183Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
