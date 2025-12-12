@@ -9,6 +9,46 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Watch the video below and explore annotations about vocabulary, grammar, sociocultural aspects of the language, and more."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 1 - ¿Qué implica la desaparición de las lenguas indígenas en México?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThe loss of Indigenous languages goes far beyond words — it means losing deep‑rooted identities, cultural knowledge, and ways of understanding the world. In Mexico, many Indigenous languages are at risk of disappearing due to discrimination, social pressures, and reduced transmission between generations, pushing younger people to speak only dominant languages and weakening ancestral traditions. In the video below, you will learn about what it means for a language to disappear, why this loss matters for Indigenous dignity and identity, and how language rights and community efforts are connected to preserving cultural continuity."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "e364202f-e9f0-45fd-b096-94d0a0bd03da",
       "includes": [
@@ -35,7 +75,7 @@
   "created_by": "egorobets",
   "title": "¿Qué implica la desaparición de las lenguas indígenas en México?",
   "slug": "que-implica-la-desaparicion-de-las-lenguas-i",
-  "updated_at": "2025-12-06T00:41:06.312Z",
+  "updated_at": "2025-12-12T21:49:30.699Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
