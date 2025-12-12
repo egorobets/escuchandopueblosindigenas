@@ -4,6 +4,39 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Watch the video below and explore annotations about vocabulary, grammar, sociocultural aspects of the language, and more."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 2 - ¿De dónde son los mapuche?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nQuestions about where the Mapuche come from can sometimes miss the point — what matters most to many Mapuche people is their deep connection to their ancestral lands and identity, not the modern borders of Chile or Argentina. Historically, Mapuche territory stretched from the Pacific to the Atlantic across what is now southern Chile and Argentina, and their struggle for autonomy and recognition continues amid pressures from state expansion and land loss. In the video below, you will learn about why the question “Where are the Mapuche from?” goes beyond geography, how colonial and national histories have shaped perceptions of their identity, and why understanding Mapuche territory and culture requires listening to Indigenous perspectives."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +68,7 @@
   "created_by": "egorobets",
   "title": "¿De dónde son los mapuche?",
   "slug": "de-donde-son-los-mapuche",
-  "updated_at": "2025-12-06T00:41:10.234Z",
+  "updated_at": "2025-12-12T21:50:37.043Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
