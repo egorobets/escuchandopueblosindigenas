@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "afbb8790-d8c7-4036-b869-cf95732411dc",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-12-12T20:22:55.529Z",
   "created_by": "egorobets",
   "title": "Entrevista con Rigoberta Menchú",
   "slug": "entrevista-con-rigoberta-menchu",
-  "updated_at": "2025-12-12T20:22:55.529Z",
+  "updated_at": "2025-12-12T20:31:13.028Z",
   "updated_by": "egorobets",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "afbb8790-d8c7-4036-b869-cf95732411dc"
   }
