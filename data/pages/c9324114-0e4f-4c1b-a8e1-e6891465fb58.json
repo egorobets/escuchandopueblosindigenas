@@ -28,7 +28,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video 1 - ¿Qué implica la desaparición de las lenguas indígenas en México?"
+          "text": "Video 1 - ¿Qué implica la desaparición de las lenguas indígenas en México?",
+          "bold": true
         }
       ]
     },
@@ -75,7 +76,7 @@
   "created_by": "egorobets",
   "title": "¿Qué implica la desaparición de las lenguas indígenas en México?",
   "slug": "que-implica-la-desaparicion-de-las-lenguas-i",
-  "updated_at": "2025-12-12T21:49:30.699Z",
+  "updated_at": "2025-12-12T21:50:49.817Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
