@@ -4,6 +4,47 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Watch the video below and explore annotations about vocabulary, grammar, sociocultural aspects of the language, and more."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video 3 - Entrevista con Rigoberta Menchú",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rigoberta Menchú is a Maya Quiché Indigenous leader and Nobel Peace Prize laureate whose life has been shaped by struggle, resilience, and the fight for justice. In the interview, she reflects on how 500 years of colonialism have meant ongoing marginalization, exploitation, and discrimination against Indigenous peoples, while also emphasizing their enduring cultural strength and collective resistance. In the video below, you will learn about her personal vision of Indigenous struggles past and present, the deep connection to land and memory that defines many Indigenous movements, and why she sees hope in shared efforts for justice, dignity, and a future shaped by Indigenous voices."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +76,7 @@
   "created_by": "egorobets",
   "title": "Entrevista con Rigoberta Menchú",
   "slug": "entrevista-con-rigoberta-menchu",
-  "updated_at": "2025-12-12T20:31:13.028Z",
+  "updated_at": "2025-12-12T21:56:44.526Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
