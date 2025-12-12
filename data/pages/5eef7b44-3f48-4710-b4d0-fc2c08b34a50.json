@@ -106,7 +106,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video 3"
+          "text": "Entrevista con Rigoberta Menchú",
+          "link": "https://egorobets.github.io/escuchandopueblosindigenas/pages/entrevista-con-rigoberta-menchu/"
         }
       ]
     },
@@ -122,7 +123,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video 4"
+          "text": "Lenin Tamayo conquista Asia con el k-pop en quechua",
+          "link": "https://egorobets.github.io/escuchandopueblosindigenas/pages/lenin-tamayo-conquista-asia-con-el-k-pop-en-q/"
         }
       ]
     },
@@ -311,7 +313,7 @@
   "created_at": "2025-12-06T00:17:54.106Z",
   "created_by": "egorobets",
   "title": "Home",
-  "updated_at": "2025-12-09T19:58:58.865Z",
+  "updated_at": "2025-12-12T20:35:49.918Z",
   "updated_by": "egorobets",
   "autogenerate": {
     "enabled": false,
